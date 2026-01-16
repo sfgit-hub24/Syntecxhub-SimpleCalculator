@@ -19,8 +19,9 @@ The application performs basic arithmetic operations in a simple, interactive te
 3) Navigate to the Project Folder
 4) Run the Program
 ---
-## Sample Output
-
+## Sample Outputs
+![Sample Output 1](assets/sample-output-1.jpg)
+![Sample Output 2](assets/sample-output-2.jpg)
 ---
 ## Learning Outcomes
 - Understanding Python basics (loops, conditionals, input/output)
