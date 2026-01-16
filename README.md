@@ -29,6 +29,8 @@ The application performs basic arithmetic operations in a simple, interactive te
 ---
 ## Author
 Safa Fatima
+
 2nd Year CSE Student
+
 Internship Task Submission
 ---
